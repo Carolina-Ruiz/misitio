@@ -1,0 +1,89 @@
+header {
+  background-color: #2E3232;
+  color: #FFF;
+}
+
+header h2 {
+  color:#FFF;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  line-height: 40px;
+}
+
+li {
+  width: 100px;
+  display: inline-block;
+  text-align: center;
+}
+
+a {
+  color: gray;
+  text-decoration: none;
+  display: block;
+}
+ 
+a:hover {
+  color: #FFF;
+}
+/*.fa-bars {
+  margin-top: 5px;
+  margin-left: 200px;
+}*/
+.bone {
+  background-image: url(../img/biblio.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 27em;
+  text-align: center;
+}
+.bone, h1 {
+  color: #FFF;
+}
+
+
+.btres {
+  height: 594px;
+}
+#small-box {
+  border: 1px solid #CBCBCB;
+  height: 406px;
+  
+}
+#little-box {
+  background-color: #F7F7F7;
+  background-size: cover;
+  height: 10em;
+  text-align: center;
+}
+.book {
+    background-size: cover;
+    height: 10em;
+    text-align: center
+}
+
+.boxbnt {
+  background:  #F7F7F7;
+  border: 1px solid #F7F7F7; 
+  height: 
+
+}
+button {
+  background-color: #007BFF;
+  border-radius: 1em;
+  color: #FFF;
+}
+
+footer {
+  background-color: #2E3232;
+  height: 5em;
+  text-align: center;
+}
+
+footer h6 {
+  color: #FFF;
+
+}
