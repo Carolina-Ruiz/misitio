@@ -1,3 +1,8 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
 header {
   background-color: #2E3232;
   color: #FFF;
@@ -49,8 +54,8 @@ a:hover {
   height: 594px;
 }
 #small-box {
-  border: 1px solid #CBCBCB;
-  height: 406px;
+  border: 1px solid gray;
+  height: 443px;
   
 }
 #little-box {

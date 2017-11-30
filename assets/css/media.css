@@ -6,7 +6,11 @@
    .fa-bars {
    	color: #FFF;
     display: visible;
+  }
 
+  footer {
+	height: 5em;
+  	margin-top: 50em;
   }
 
 }
